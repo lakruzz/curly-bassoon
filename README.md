@@ -23,6 +23,7 @@ After you have accepted the assignment in GitHub Classroom, you will need to ini
   ```
   .github/template/cpissues.sh
   ```
+sd-
 
 The command will create a series of issues in your own repo - simply get cracking at 'em - work those issues!
 
